@@ -1,0 +1,16 @@
+{
+  "name": "assignment--books",
+  "version": "1.0.0",
+  "description": "Books Project",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Folayinka Olaofe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.0",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.2.2"
+  }
+}
